@@ -1,6 +1,5 @@
 # Dice-Duel
 Implemented an Android dice game application in Kotlin using Jetpack Compose with full game logic,  computer AI strategy, and responsive UI.
-📱 Overview
 
 This project implements a two-player dice game where a human player competes against a computer opponent.
 Both players roll five dice per turn, aiming to reach a configurable target score (default: 101) before the opponent.
